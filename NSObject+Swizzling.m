@@ -1,6 +1,5 @@
 //
 //  NSObject+Swizzling.m
-//  tableview
 //
 //  Created by Tim Searle on 29/05/2014.
 //  Copyright (c) 2014 Tim Searle. All rights reserved.
