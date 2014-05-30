@@ -17,6 +17,9 @@ Compilation of reusable classes, categories and snippets for use in Objective-C 
 
  A useful method that will swizzle the implementations of two methods at runtime. Supports instance methods and class methods.
  	
+#### Instructions
+
+For application-wide support, import **Reuse.h** into your project's `.pch` file. 
 
 ## Author
 
