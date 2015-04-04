@@ -6,4 +6,5 @@
 //
 
 #import "UITableView+Extended.h"
+#import "UITableViewCell+Extended"
 #import "NSObject+Swizzling.h"
